@@ -6,81 +6,23 @@
     <description>Recent content in Posts on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Feb 2025 10:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>is it love? shishh NOOO!!!!</title>
-      <link>/posts/how-preety-she-is/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/how-preety-she-is/</guid>
-      <description>&lt;p&gt;that one girl
-!&lt;img src=&#34;/images/Pasted%20image%2020250226113911.png&#34; alt=&#34;Image Description&#34;&gt;hey i think i guess i mean ok lets be frnds blab
-blab blab mew meow meow&lt;/p&gt;</description>
-      <content>&lt;p&gt;that one girl
-!&lt;img src=&#34;/images/Pasted%20image%2020250226113911.png&#34; alt=&#34;Image Description&#34;&gt;hey i think i guess i mean ok lets be frnds blab
-blab blab mew meow meow&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>the first step</title>
+      <title>First Blog</title>
       <link>/posts/aditya/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>/posts/aditya/</guid>
-      <description>&lt;h1 id=&#34;my-new-blog-post&#34;&gt;My New Blog Post&lt;/h1&gt;
-&lt;p&gt;Writing blogs in Obsidian is a great way to manage content in a structured and markdown-friendly environment. With seamless integration to Hugo, you can quickly publish your thoughts without hassle.&lt;/p&gt;
-&lt;h2 id=&#34;why-use-obsidian-for-blogging&#34;&gt;Why Use Obsidian for Blogging?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Markdown Support&lt;/strong&gt;: Obsidian uses markdown, which makes formatting posts simple and efficient.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Local-First&lt;/strong&gt;: Unlike cloud-based platforms, your data stays with you.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Easy Integration&lt;/strong&gt;: Copying the &lt;code&gt;.md&lt;/code&gt; file to your Hugo &lt;code&gt;content/posts/&lt;/code&gt; directory instantly makes it available for your site.&lt;/p&gt;</description>
-      <content>&lt;h1 id=&#34;my-new-blog-post&#34;&gt;My New Blog Post&lt;/h1&gt;
-&lt;p&gt;Writing blogs in Obsidian is a great way to manage content in a structured and markdown-friendly environment. With seamless integration to Hugo, you can quickly publish your thoughts without hassle.&lt;/p&gt;
-&lt;h2 id=&#34;why-use-obsidian-for-blogging&#34;&gt;Why Use Obsidian for Blogging?&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Markdown Support&lt;/strong&gt;: Obsidian uses markdown, which makes formatting posts simple and efficient.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Local-First&lt;/strong&gt;: Unlike cloud-based platforms, your data stays with you.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Easy Integration&lt;/strong&gt;: Copying the &lt;code&gt;.md&lt;/code&gt; file to your Hugo &lt;code&gt;content/posts/&lt;/code&gt; directory instantly makes it available for your site.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;workflow&#34;&gt;Workflow&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Write in Obsidian&lt;/strong&gt;: Draft your blog post using markdown.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Use Front Matter&lt;/strong&gt;: Add metadata like title, date, and tags for Hugo.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Copy to Hugo&lt;/strong&gt;: Move the &lt;code&gt;.md&lt;/code&gt; file to your Hugo blog’s &lt;code&gt;content/posts/&lt;/code&gt; folder.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Build and Deploy&lt;/strong&gt;: Run &lt;code&gt;hugo&lt;/code&gt; to generate static files and deploy your site.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250226073742.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>the first step</title>
-      <link>/posts/second-blog/</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/second-blog/</guid>
-      <description>&lt;p&gt;know me be me aditya is hero&lt;/p&gt;</description>
-      <content>&lt;p&gt;know me be me aditya is hero&lt;/p&gt;
+      <description>&lt;h1 id=&#34;my-first-ever-blog&#34;&gt;my first ever blog&lt;/h1&gt;
+&lt;p&gt;tadow!!!!  hello everyone , i code and configured this website in 15+hr , i gave mine fucking  stringt 15hr to make this blog page which is responsive work very well, but i dont know how to write things  and what to write on this blog site, i must have to post daily on this site , may be this thing i can fix my English, 😂 haha so from today i gonna post shit on this page everyday whit my worst journaling skill and horriable english , thank god i dont have to put my voice here , otherwise you guys will be scare&amp;hellip;.
+i have some topics to talk on like&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;my-first-ever-blog&#34;&gt;my first ever blog&lt;/h1&gt;
+&lt;p&gt;tadow!!!!  hello everyone , i code and configured this website in 15+hr , i gave mine fucking  stringt 15hr to make this blog page which is responsive work very well, but i dont know how to write things  and what to write on this blog site, i must have to post daily on this site , may be this thing i can fix my English, 😂 haha so from today i gonna post shit on this page everyday whit my worst journaling skill and horriable english , thank god i dont have to put my voice here , otherwise you guys will be scare&amp;hellip;.
+i have some topics to talk on like&lt;/p&gt;
+&lt;h2 id=&#34;how-to-make-such-website&#34;&gt;How to make such website&lt;/h2&gt;
+&lt;h2 id=&#34;how-to-start-programming&#34;&gt;How to start programming&lt;/h2&gt;
+&lt;p&gt;lets see how it goes , bye bye..
+see ya in next BLOG&lt;/p&gt;
 </content>
     </item>
     
