@@ -62,9 +62,9 @@ theme = "terminal"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      owner = "aditya"
       keywords = ""
-      copyright = ""
+      copyright = "aditya1000"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
